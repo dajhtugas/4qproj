@@ -1,0 +1,130 @@
+*{
+    margin: 0%;
+}
+.header{
+    top: 0%;
+    height: 18vh;
+    width: 100vw;
+    background-color: rgb(20, 138, 85);
+    font-size: 4vh;
+    position: fixed;
+}
+.headertext{
+    right: 2%;
+    top: 4vh;
+    position: fixed;
+    
+}
+.logodiv{
+    top: 3vh;
+    left: 42vw;
+    height: 12vh;
+    aspect-ratio: 1/1;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    position: fixed;
+}
+.elipse{
+    top: 4vh;
+    left: 2vw;
+    position: fixed;
+}
+.elipseImg{
+    height: 10vh;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+}
+.pfpdiv{
+    top: 30vh;
+    left: 20vw;
+    position: fixed;
+}
+.pfpImg{
+    height: 30vh;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+}
+.namesOfUser{
+    top: 65vh;
+    left: 20vw;
+    width: 15vw;
+    height: 2.5vh;
+    padding: 0.5%;
+    position: fixed;
+}
+#name{
+    display: inline-block;
+}
+.fname{
+    float: left;
+}
+.sname{
+    float: right;
+}
+.namesOfUser2{
+    top: 70vh;
+    left: 20vw;
+    width: 15vw;
+    height: 2.5vh;
+    padding: 0.5%;
+    position: fixed;
+}
+.ufname{
+    float: left;
+    height: 2.5vh;
+    width: 5vw;
+
+}
+.usname{
+    float: right;
+    height: 2.5vh;
+    width: 5vw;
+
+}
+.namesOfUser3{
+    top: 75vh;
+    left: 20vw;
+    width: 15vw;
+    height: 2.5vh;
+    padding: 0.5%;
+    position: fixed;
+}
+.email{
+    float: right;
+    height: 2.5vh;
+    width: 12vw;
+
+}
+.namesOfUser4{
+    top: 80vh;
+    left: 20vw;
+    width: 15vw;
+    height: 2.5vh;
+    padding: 0.5%;
+    position: fixed;
+}
+.number{
+    float: right;
+    height: 2.5vh;
+    width: 9vw;
+
+}
+.reasonwhy{
+    top: 35vh;
+    left: 45vw;
+    position: fixed;
+}
+.reason{
+    top: 40vh;
+    left: 45vw;
+    height: 40vh;
+    width: 40vw;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+}
+.background{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    opacity: 70%;
+}

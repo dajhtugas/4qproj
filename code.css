@@ -1,0 +1,52 @@
+form{
+    padding:5vw;
+}
+fieldset{
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+legend{
+    text-align: center;
+}
+
+#fir{
+    background-color: aqua;
+}
+#sec{
+    background-color: red;
+}
+#thi{
+    background-color: violet;
+}
+#fou{
+    background-color: green;
+}
+#fif{
+    background-color: yellow;
+}
+#six{
+    background-color: orange;
+}
+#sev{
+    background-color: pink;
+    position: relative;
+    left: 40vw;
+    bottom: 46vh;
+}
+
+
+#llname{
+    padding-left: 10vw;
+}
+#lname{
+    margin-left: 5vw;
+}
+#lpword{
+    padding-left: 13vw;
+}
+#pword{
+    margin-left:5vw ;
+}
